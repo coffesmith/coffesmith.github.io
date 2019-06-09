@@ -1,0 +1,25 @@
+.wrap_box{
+    border:black solid 1px;
+    height: 100%;
+
+}
+.hide_class{
+    border: 0px;
+    display: inline-block;
+    height: 100%;
+    width:50%;
+    float:left;
+}
+.location_class{
+    display: inline-block;
+    width: 20%;
+    margin:5%   25% 5% 5%;
+    font-size: 1rem;
+        /* margin-top:5%;
+    margin-right: 30%; */
+}
+.slocation_class{
+    float: right;
+    margin-top:10%;
+    margin-right: 30%;
+}
